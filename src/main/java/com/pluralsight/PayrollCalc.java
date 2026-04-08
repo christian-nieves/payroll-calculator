@@ -18,6 +18,8 @@ public class PayrollCalc {
 
         System.out.printf("Name: %s, Gross Pay: $%.2f", name, grossPay);
 
+        myScanner.close();
+
 
     }
 }
